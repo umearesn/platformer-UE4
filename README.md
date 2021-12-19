@@ -43,8 +43,8 @@
 Итак, в двух словах - количество препятствий равно номеру уровня, сложность препятствий зависит от уровня (но с ограничениями) + некоторые ограничения для повышения играбельности.
 
 ### Некоторые использованные источники
-	- SPAWN ACTOR - EXPOSE VARIABLES - UNREAL ENGINE - UE4 - UE5 (https://www.youtube.com/watch?v=uDdYMPNWQ-4)
-	- UE4 Fall Guys создание платформ гексаконов / Unreal Engine 4 создание игр (https://www.youtube.com/watch?v=OmbDr3bmo8I)
-  - UE4 - Procedural Level Generation / (https://www.youtube.com/watch?v=VmRggTwhiew&ab_channel=PubGames)
-	- Unreal Engine 4 - Процедурная генерация поверхности (https://www.youtube.com/watch?v=eBerA850j7E)
-  - .gitignore (https://github.com/github/gitignore/blob/main/UnrealEngine.gitignore)
+- SPAWN ACTOR - EXPOSE VARIABLES - UNREAL ENGINE - UE4 - UE5 (https://www.youtube.com/watch?v=uDdYMPNWQ-4)
+- UE4 Fall Guys создание платформ гексаконов / Unreal Engine 4 создание игр (https://www.youtube.com/watch?v=OmbDr3bmo8I)
+- UE4 - Procedural Level Generation / (https://www.youtube.com/watch?v=VmRggTwhiew&ab_channel=PubGames)
+- Unreal Engine 4 - Процедурная генерация поверхности (https://www.youtube.com/watch?v=eBerA850j7E)
+- .gitignore (https://github.com/github/gitignore/blob/main/UnrealEngine.gitignore)
